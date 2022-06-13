@@ -105,4 +105,6 @@ Rules that were simplified into one rule:
     max-width: 150px;
 }
 ```
-
+URL:
+* https://github.com/nguyendinhkhanhha296/challenge-week-1
+* https://nguyendinhkhanhha296.github.io/challenge-week-1/
