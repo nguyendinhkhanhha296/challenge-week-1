@@ -1,5 +1,8 @@
 # Challenge-week-1
 Bootcamp challenge week 1
+
+![My edit](/assets/images/2022-06-12-23-03-nguyendinhkhanhha296.github.io.png)
+
 ## The Process
 
 Add some comments to HTML file: 
