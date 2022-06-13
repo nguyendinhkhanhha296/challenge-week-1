@@ -3,7 +3,7 @@ Bootcamp challenge week 1
 ## The Process
 
 Add some comments to HTML file: 
-
+```
 <!-- Header -->
 
 <!-- Main content -->
@@ -35,10 +35,10 @@ Added id search-engine-optimization
 Removed the online-reputation-management class and rules in CSS updated to id
 
 Removed the social-media-marketing class and rules in CSS updated to id
-  
+``` 
 
 Add some comments to CSS file:
-
+```
 /*--Header--*/
 
 /*--Main content--*/
@@ -104,5 +104,5 @@ Rules that were simplified into one rule:
     margin: 10px auto;
     max-width: 150px;
 }
-
+```
 
